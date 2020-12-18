@@ -1,0 +1,27 @@
+.form {
+    margin-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    border: 1px solid black;
+    padding: 2rem;
+}
+
+.form label {
+    margin-bottom: 10px;
+}
+
+.input {
+    border: 1px solid darkgrey;
+    margin-left: 1rem;
+    float: right;
+}
+
+.button {
+    width: 9rem;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: lightgray; 
+    height: 1.3rem;
+    font-weight: bolder;
+}

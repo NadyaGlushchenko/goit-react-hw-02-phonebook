@@ -1,0 +1,20 @@
+.contactList {
+    margin-left: 1rem;
+    font-size: 18px;
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.listItem {
+    width: 500px;
+}
+
+.button {
+    margin-left: 2rem;
+    background-color: lightgray; 
+    width: 4rem;
+    height: 1.3rem;
+    font-weight: bolder;
+    float: right;
+}
